@@ -10,3 +10,5 @@ To publish:
 2. Drag the folder to Netlify / deploy through your preferred host.
 
 Do not remove the assets folder; product images are loaded from it.
+
+Updated: added Cleaning Acid, Wonder Wipes, Scot Brite Hard, dual-side Scot Brite, Brooms, Piping Bag, Urinal Sani Cubes, Butter Paper, Sunny Phenyl, Sunnex Phenyl, Bleach Liquid, Bleach Powder and Caustic Soda. Banner logo and WhatsApp number removed.
